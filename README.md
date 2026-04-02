@@ -1,7 +1,7 @@
 # Log-Detection-from-UAV
 
 About:
-This script will help to detect fallen trees (logs) using UAV images (photogrammetry) with the help of computer vision.
+This script detects fallen trees (logs) using close-range sensing data, such as UAV images, with the help of computer vision techniques.
 
 Application: Forestry
 
